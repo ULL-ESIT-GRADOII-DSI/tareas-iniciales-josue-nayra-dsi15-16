@@ -10,6 +10,7 @@ Tutorial para la configuración de las herramientas y tecnologías a utilizar en
 * Markdown
 
 [Página personal de prácticas Josué](http://JosueTC94.github.io/)
+
 [Página personal de prácticas Nayra](http://alu0100406122.github.io/)
 
 [Página de la práctica inicial](http://alu0100406122.github.io/tareas-iniciales-josue-nayra-dsi15-16/)
