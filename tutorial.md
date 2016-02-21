@@ -1,8 +1,8 @@
 #**Tareas iniciales**#
-===
+======================
 
 ###**Instalación de node.js**###
-
+--------------------------------
 Se han aplicado una serie de comandos para la instalación de node.js
 
 -*sudo apt-get install nodejs*
@@ -15,7 +15,7 @@ Se han aplicado una serie de comandos para la instalación de node.js
 
 
 >####**Comprobación de que npm funciona correctamente:**####
-
+------------------------------------------------------------
 >####<img src="images/funcionamiento_npm1.png" title="Funcionamiento npm" alt="No puede encontrarse la imagen">
 
 >Este ejemplo lista los paquetes que actualmente están instalados en un determinado directorio en un formato de árbol:
@@ -24,7 +24,7 @@ Se han aplicado una serie de comandos para la instalación de node.js
 
 
 >####**Instalación de express**####
-
+-----------------------------------
 >Se ha utilizado el siguiente comando para la instalación de express:
 
 >-*npm install express --save*
@@ -34,7 +34,7 @@ Se han aplicado una serie de comandos para la instalación de node.js
 
 
 ###**Instalación de git**###
-
+----------------------------
 Para la instalación de git se han utilizado los siguientes comandos:
 
 -*sudo apt-get install git*
@@ -43,14 +43,14 @@ Para la instalación de git se han utilizado los siguientes comandos:
 
 
 ###**Cloud 9**###
-
+-----------------
 Cloud9 combina un potente editor de código online con un completo espacio de trabajo de Ubuntu en la nube. Soporta más de 40 lenguajes y es sencillo de manejar.
 
 <img src="images/c9.jpg" alt="No puede encontrarse la imagen" title="Instalacion git">
 
 
 ###**Instalacion de Atom**###
-
+-----------------------------
 Se ha hecho uso del siguiente comando para la instalación de Atom:
 
 
@@ -67,7 +67,7 @@ Una vez actualizados los paquetes de Ubuntu para que éste reconozca aquellos qu
 
 
 ###**Markdown**###
-
+------------------
 >####**Sintaxis:**####
 
 >####*Encabezados:*#####
@@ -85,7 +85,7 @@ Una vez actualizados los paquetes de Ubuntu para que éste reconozca aquellos qu
 > ~~Scratch~~
 
 >####*Referencias a links:*####
-> * [Links](https://example.com)
+>*[Links](https://example.com)
 
 >####*Listas:*####
 > 1. Lista 1
@@ -109,7 +109,7 @@ Una vez actualizados los paquetes de Ubuntu para que éste reconozca aquellos qu
 
 
 ###**Referencias utilizadas**###
-
+--------------------------------
 Node js
 * [Links](https://nodejs.org/en/)
 
