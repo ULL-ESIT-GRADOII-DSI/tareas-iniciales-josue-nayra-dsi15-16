@@ -67,7 +67,7 @@ Una vez actualizados los paquetes de Ubuntu para que este reconozca aquellos que
 >>![](images/atom.png)
 
 
->>![](images/atom1.png)
+>>![](images/atom.jpg)
 
 
 
