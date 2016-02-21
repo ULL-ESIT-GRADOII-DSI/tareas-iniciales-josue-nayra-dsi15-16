@@ -1,7 +1,7 @@
-#**Tareas iniciales**#
+**Tareas iniciales**
 ======================
 
-###**Instalación de node.js**###
+**Instalaci~ón de node.js**
 --------------------------------
 Se han aplicado una serie de comandos para la instalación de node.js
 
@@ -14,26 +14,26 @@ Se han aplicado una serie de comandos para la instalación de node.js
 <img src="images/npm.png" alt="No puede encontrarse la imagen">
 
 
->####**Comprobación de que npm funciona correctamente:**####
+>**Comprobación de que npm funciona correctamente:**
 ------------------------------------------------------------
->####<img src="images/funcionamiento_npm1.png" title="Funcionamiento npm" alt="No puede encontrarse la imagen">
+><img src="images/funcionamiento_npm1.png" title="Funcionamiento npm" alt="No puede encontrarse la imagen">
 
 >Este ejemplo lista los paquetes que actualmente están instalados en un determinado directorio en un formato de árbol:
 
->####<img src="images/npm_paquetes.png" title="Funcionamiento npm" alt="No puede encontrarse la imagen">
+><img src="images/npm_paquetes.png" title="Funcionamiento npm" alt="No puede encontrarse la imagen">
 
 
->####**Instalación de express**####
+>**Instalación de express**
 -----------------------------------
 >Se ha utilizado el siguiente comando para la instalación de express:
 
 >-*npm install express --save*
 
->####<img src="images/express.png" alt="No puede encontrarse la imagen">
+><img src="images/express.png" alt="No puede encontrarse la imagen">
 
 
 
-###**Instalación de git**###
+**Instalación de git**
 ----------------------------
 Para la instalación de git se han utilizado los siguientes comandos:
 
@@ -42,14 +42,14 @@ Para la instalación de git se han utilizado los siguientes comandos:
 <img src="images/git.png" alt="No puede encontrarse la imagen" title="Instalacion git">
 
 
-###**Cloud 9**###
+**Cloud 9**
 -----------------
 Cloud9 combina un potente editor de código online con un completo espacio de trabajo de Ubuntu en la nube. Soporta más de 40 lenguajes y es sencillo de manejar.
 
 <img src="images/c9.jpg" alt="No puede encontrarse la imagen" title="Instalacion git">
 
 
-###**Instalacion de Atom**###
+**Instalacion de Atom**
 -----------------------------
 Se ha hecho uso del siguiente comando para la instalación de Atom:
 
@@ -66,49 +66,40 @@ Una vez actualizados los paquetes de Ubuntu para que éste reconozca aquellos qu
 <img src="images/atom.png" alt="No puede encontrarse la imagen">
 
 
-###**Markdown**###
+**Markdown**
 ------------------
->####**Sintaxis:**####
+>**Sintaxis:**
 
->####*Encabezados:*#####
-># H1
->## H2
->### H3
->#### H4
->##### H5
->###### H6
+>*Encabezados:*
+> H1
+> H2
+> H3
+> H4
+> H5
+> H6
 
->####*Tipografía:*####
-> **Negrita**
-> *Cursiva*
-> > Citas
-> ~~Scratch~~
+>*Tipografía:*
 
->####*Referencias a links:*####
->*[Links](https://example.com)
+>*Enlaces:*
 
->####*Listas:*####
-> 1. Lista 1
-> 2. Lista 2
-> * Lista 1
-> * Lista 2
+>*Listas:*
 
->####*Imágenes:*####
+>*Imágenes:*
 > ![alt text][logo]
 > ![Texto imagen](url-imagen)
 
->####*Líneas horizontales:*####
+>*Líneas horizontales:*
 >---
 >***
 >___
 
->####*Tablas:*####
+>*Tablas:*
 >| Tables        | Are           | Cool  |
 >| ------------- |:-------------:| -----:|
 >| col 3 is      | right-aligned | $1600 |
 
 
-###**Referencias utilizadas**###
+**Referencias utilizadas**
 --------------------------------
 Node js
 * [Links](https://nodejs.org/en/)
