@@ -21,4 +21,8 @@ Integrantes:
 
 Link de la práctica:
 
+
 * [Página de la práctica](http://alu0100406122.github.io/tareas-iniciales-josue-nayra-dsi15-16/)
+
+
+* [Página de la práctica](http://ull-esit-gradoii-dsi.github.io/tareas-iniciales-josue-nayra-dsi15-16/)
