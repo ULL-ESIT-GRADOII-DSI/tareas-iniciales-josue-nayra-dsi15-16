@@ -1,120 +1,116 @@
 **Tareas iniciales**
 ======================
 ***
-**Instalación de node.js**
+**Instalacion de node.js**
 --------------------------------
-Se han aplicado una serie de comandos para la instalación de node.js
+Se han aplicado una serie de comandos para la instalacion de node.js
 
 -*sudo apt-get install nodejs*
 
-<img src="images/nodejs.png" alt="No puede encontrarse la imagen">
+>>![](images/nodejs.png)
 
--*sudo apt-get install npm*. Npm es el sistema de manejo de paquetes y gestión de módulos de node.js.
+-*sudo apt-get install npm*. Npm es el sistema de manejo de paquetes y gestion de modulos de node.js.
 
-<img src="images/npm.png" alt="No puede encontrarse la imagen">
-
-
- >**Comprobación de que npm funciona correctamente:**
-------------------------------------------------------------
-><img src="images/funcionamiento_npm1.png" title="Funcionamiento npm" alt="No puede encontrarse la imagen">
-
->Este ejemplo lista los paquetes que actualmente están instalados en un determinado directorio en un formato de árbol:
-
-><img src="images/npm_paquetes.png" title="Funcionamiento npm" alt="No puede encontrarse la imagen">
+>>![](images/npm.png)
 
 
->**Instalación de express**
------------------------------------
->Se ha utilizado el siguiente comando para la instalación de express:
+* ### Comprobacion de que npm funciona correctamente:
+
+>>![](images/funcionamiento_npm1.png)
+
+>Este ejemplo lista los paquetes que actualmente estan instalados en un determinado directorio en un formato de arbol:
+
+>>![](images/npm_paquetes.png)
+
+
+* ### Instalacion de express
+
+>Se ha utilizado el siguiente comando para la instalacion de express:
 
 >-*npm install express --save*
 
-><img src="images/express.png" alt="No puede encontrarse la imagen">
+>>![](images/express.png)
 
 
 
-**Instalación de git**
+**Instalacion de git**
 ----------------------------
-Para la instalación de git se han utilizado los siguientes comandos:
+Para la instalacion de git se han utilizado los siguientes comandos:
 
 -*sudo apt-get install git*
 
-<img src="images/git.png" alt="No puede encontrarse la imagen" title="Instalacion git">
+>>![](images/git.png)
 
 
 **Cloud 9**
 -----------------
-Cloud9 combina un potente editor de código online con un completo espacio de trabajo de Ubuntu en la nube. Soporta más de 40 lenguajes y es sencillo de manejar.
+Cloud9 combina un potente editor de codigo online con un completo espacio de trabajo de Ubuntu en la nube. Soporta mas de 40 lenguajes y es sencillo de manejar.
 
-<img src="images/c9.jpg" alt="No puede encontrarse la imagen" title="Instalacion git">
+>>![](images/c9.jpg)
+
 
 
 **Instalacion de Atom**
 -----------------------------
-Se ha hecho uso del siguiente comando para la instalación de Atom:
+Se ha hecho uso del siguiente comando para la instalacion de Atom:
 
 
 -*sudo add-apt-repository ppa:webupd8team/atom*.
-La instalación es necesario realizarla mediante un PPA de webupd8team.
+La instalacion es necesario realizarla mediante un PPA de webupd8team.
 
-<img src="images/atom_prev.png" alt="No puede encontrarse la imagen">
+>>![](images/atom_prev.png)
 
-Una vez actualizados los paquetes de Ubuntu para que éste reconozca aquellos que se hayan incorporado recientemente, ejecutamos el siguiente comando en la consola:
+Una vez actualizados los paquetes de Ubuntu para que este reconozca aquellos que se hayan incorporado recientemente, ejecutamos el siguiente comando en la consola:
 
 -*sudo apt-get install atom*.
 
-<img src="images/atom.png" alt="No puede encontrarse la imagen">
+>>![](images/atom.png)
+
+
+>>![](images/atom1.png)
+
 
 
 **Markdown**
 ------------------
 >**Sintaxis:**
 
->*Encabezados:*
-> H1
-> H2
-> H3
-> H4
-> H5
-> H6
+>* *Encabezados:*
 
->*Tipografía:*
+>>![](images/cabecera.png)
 
->*Enlaces:*
+>* *Tipografia:*
 
->*Listas:*
+>>![](images/sintaxis.png)
 
->*Imágenes:*
-> ![alt text][logo]
-> ![Texto imagen](url-imagen)
+>* *Enlaces:*
 
->*Líneas horizontales:*
->---
->***
->___
+>>![](images/enlaces.png)
 
->*Tablas:*
->| Tables        | Are           | Cool  |
->| ------------- |:-------------:| -----:|
->| col 3 is      | right-aligned | $1600 |
+>* *Listas:*
+
+>>![](images/listas.png)
+
+>* *Imagenes:*
+
+>>![](images/imagenes.png)
+
+>* *Tablas:*
+
+>>![](images/tablas.png)
 
 
 **Referencias utilizadas**
 --------------------------------
-Node js
-* [Links](https://nodejs.org/en/)
 
-Atom
-* [Links](https://atom.io/)
+* [Node js](https://nodejs.org/en/)
 
-Pandoc
-* [Links](http://pandoc.org/)
+* [Atom](https://atom.io/)
 
-GitHub Pages
-* [Links](https://pages.github.com/)
+* [Pandoc](http://pandoc.org/)
 
-Markdown
-* [Links]()
+* [GitHub Pages](https://pages.github.com/)
 
-Cloud 9
-* [Links](https://c9.io/)
+* [Markdown](https://joedicastro.com/pages/markdown.html)
+
+* [Cloud 9](https://c9.io/)
