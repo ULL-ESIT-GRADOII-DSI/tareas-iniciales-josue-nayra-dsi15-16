@@ -1,7 +1,7 @@
 **Tareas iniciales**
 ======================
-
-**Instalaci~ón de node.js**
+***
+**Instalación de node.js**
 --------------------------------
 Se han aplicado una serie de comandos para la instalación de node.js
 
@@ -14,7 +14,7 @@ Se han aplicado una serie de comandos para la instalación de node.js
 <img src="images/npm.png" alt="No puede encontrarse la imagen">
 
 
->**Comprobación de que npm funciona correctamente:**
+ >**Comprobación de que npm funciona correctamente:**
 ------------------------------------------------------------
 ><img src="images/funcionamiento_npm1.png" title="Funcionamiento npm" alt="No puede encontrarse la imagen">
 
