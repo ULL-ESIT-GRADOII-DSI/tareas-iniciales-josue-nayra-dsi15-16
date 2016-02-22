@@ -22,3 +22,7 @@ Integrantes:
 Link de la práctica:
 
 * [Página de la práctica](http://ull-esit-gradoii-dsi.github.io/tareas-iniciales-josue-nayra-dsi15-16/)
+
+Enlace al campus virtual de la asignatura:
+
+* [Desarrollo de Sistemas Informáticos](https://campusvirtual.ull.es/1516/course/view.php?id=144)
