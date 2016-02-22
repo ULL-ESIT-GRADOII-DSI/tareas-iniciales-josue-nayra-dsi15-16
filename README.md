@@ -1,8 +1,11 @@
 ## Tareas Iniciales
 
 Asignatura: Desarrollo de Sistemas Informáticos.
+3º Curso Grado de Ingeniería Informática.
+Universidad de la Laguna. 
 
-Tutorial para la configuración de las herramientas y tecnologías a utilizar en la asignatura "Sistemas y Tecnologías Web".
+
+Práctica 1 en la cual se despliega un tutorial acerca de Markdown y también la instalación de las siguientes herramientas de trabajo:
 
 * NodeJS
 * Express
