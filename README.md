@@ -25,4 +25,4 @@ Link de la práctica:
 
 Enlace al campus virtual de la asignatura:
 
-* [Desarrollo de Sistemas Informáticos](https://campusvirtual.ull.es/1516/course/view.php?id=144)
+* [Desarrollo de Sistemas Informáticos](https://campusvirtual.ull.es/1516/course/view.php?id=144) 
