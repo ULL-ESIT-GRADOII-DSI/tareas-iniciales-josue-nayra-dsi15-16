@@ -29,3 +29,7 @@ Link de la práctica:
 Enlace al campus virtual de la asignatura:
 
 * [Desarrollo de Sistemas Informáticos](https://campusvirtual.ull.es/1516/course/view.php?id=144) 
+
+Enlace al repositorio en el que se ha realizado un fork de la práctica:
+
+* [Repositorio personal (fork)](https://github.com/alu0100406122/tareas-iniciales-josue-nayra-dsi15-16)
